@@ -15,7 +15,7 @@ This project is a **Pacman clone** developed entirely in the **Jack programming 
 It demonstrates object-oriented design, graphics rendering, keyboard control, and game logic, all built on top of the Hack computer system.
 
 <p align="center">
-  <img src="images/PackMan.gif" alt="Pacman Game" width="900">
+  <img src="images/PackMan.gif" alt="Pacman Game" width="700">
 </p>
 ---
 
