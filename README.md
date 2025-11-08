@@ -1,8 +1,7 @@
 
 <div align="center">
 
-![Pacman Game](images/PackMaN.gif)
-
+![Pacman Banner](images/PackManBanner.png)
 
 # 🟡 Pacman Game in Jack Language  
 ### 🕹️ Built for the Nand2Tetris Platform  
@@ -13,6 +12,9 @@
 This project is a **Pacman clone** developed entirely in the **Jack programming language** — part of the *Nand2Tetris* course.  
 It demonstrates object-oriented design, graphics rendering, keyboard control, and game logic, all built on top of the Hack computer system.
 
+<p align="center">
+  <img src="images/PackMaN.gif" alt="Pacman Game" width="900">
+</p>
 ---
 
 ### 📂 Project Structure  
