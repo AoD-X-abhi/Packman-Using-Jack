@@ -1,6 +1,12 @@
 
 <div align="center">
 
+[![Jack Language](https://img.shields.io/badge/Language-Jack-blue.svg)]()
+[![Platform: Nand2Tetris](https://img.shields.io/badge/Platform-Nand2Tetris-green.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg)]()
+
 
 # 🟡 Pacman Game in Jack Language  
 
